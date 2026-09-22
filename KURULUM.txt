@@ -1,0 +1,1 @@
+Dosyalari public_html klasorune yukleyin. veritabani.sql dosyasini phpMyAdmin ile ice aktarip config.php bilgilerini duzenleyin.
